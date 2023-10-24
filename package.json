@@ -1,0 +1,22 @@
+{
+  "name": "js-whatsappchatbot",
+  "version": "1.0.0",
+  "description": "WhatsApp Chatbot using javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WhatsApp",
+    "ChatBots"
+  ],
+  "author": "Zimbonash",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "puppeteer": "^21.3.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.22.1",
+    "wwebjs-mongo": "^1.1.0"
+  }
+}
